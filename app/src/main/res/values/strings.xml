@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">William\'s Animal Names</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="animal_names_from_a_to_z">Animal Names from A to Z</string>
+    <string name="todo">TODO</string>
+    <string name="manage_blocked_animals">Manage Blocked Animals</string>
+    <string name="manage_blocked_animal">Manage Blocked Animal</string>
+    <string name="animal_details">Animal Details</string>
+    <string name="animal_name">(animal name)</string>
+    <string name="animal_details_">(animal details)</string>
+    <string name="_08_06_2024_15_54">08-06-2024 15:54</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="unblock">Unblock</string>
+</resources>
